@@ -1,0 +1,19 @@
+{
+    "name": "kaue1/dom-pdf",
+    "autoload": {
+        "psr-4": {
+            "DomPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ikaueMatos",
+            "email": "kaue178hotimail@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "tecnickcom/tcpdf": "^6.6",
+        "phpoffice/phpword": "^1.1"
+    }
+}

@@ -7,12 +7,12 @@ Este é um projeto de exemplo que demonstra como criar um gerador de documentos 
 - PHP >= 7.0
 - Composer (para instalar as dependências)
 
-## Instalação
+# Instalação
 
 1. Clone este repositório para a pasta desejada:
 
 ```bash
-git clone 
+git clone git@github.com:iKaueMatos/PDF-generator-in-all-formats.git
 ```
 2. Instale as dependências
 ```bash

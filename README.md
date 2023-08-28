@@ -5,7 +5,7 @@ Este é um projeto de exemplo que demonstra como criar um gerador de documentos 
 ## Requisitos
 
 - PHP >= 7.0
-- Composer (para instalar as dependências)
+- Composer (para instalar das dependências)
 
 # Instalação
 

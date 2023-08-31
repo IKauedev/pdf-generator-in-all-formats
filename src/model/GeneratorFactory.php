@@ -18,7 +18,6 @@ class GeneratorFactory {
                 return new ODTGenerator();
             case 'html':
                 return new HTMLGenerator();
-            // Adicione mais casos conforme necessário
             default:
                 throw new \InvalidArgumentException("Formato não suportado: $format");
         }
